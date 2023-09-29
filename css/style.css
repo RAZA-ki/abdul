@@ -1,4 +1,4 @@
-/* CSS Global Rules */
+
 * {
     margin: 0;
     padding: 0;
@@ -117,21 +117,14 @@ img {
     }
 }
 
-/* End: Preloader */
 
-/* End CSS Global Rules */
 
-/* Reusable Components */
 
 section {
     padding: 3.125rem 0;
 }
 
-/* End Reusable Components */
 
-/* Custom Classes */
-
-/* Custom Classes for Texts */
 .text-green {
     color: #2ecc71 !important;
     font-weight: 100 !important;
@@ -167,13 +160,7 @@ section {
     border-radius: 3.125rem !important;
 }
 
-/* End Custom Classes */
 
-/* Main Styles */
-
-/* Hero Section Styling */
-
-/* Navbar Styling */
 .navbar-light .navbar-toggler {
     border: 0.0625rem solid transparent !important;
     outline: 0.0625rem solid transparent !important;
@@ -275,11 +262,7 @@ section {
     transition: .3s;
 }
 
-/* End Footer Section */
 
-/* End Main Styles */
-
-/* Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
     body {
         font-size: 16px !important;
